@@ -3,10 +3,10 @@ The [Syncfusion .NET PDF library](https://www.syncfusion.com/document-processing
 
 Sample name | Description
 --- | ---
-[Add image](https://github.com/SyncfusionExamples/pdf_image_handling/blob/master/Add_image) | Add an image in a PDF document.
-[Extract image](https://github.com/SyncfusionExamples/pdf_image_handling/blob/master/Extract_images) | Extract images from an existing PDF document.
-[Remove image](https://github.com/SyncfusionExamples/pdf_image_handling/blob/master/Remove_images) | Remove images from an existing PDF document. 
-[Replace image](https://github.com/SyncfusionExamples/pdf_image_handling/blob/master/Replace_image) | Replace an existing image with a new image or modify an existing image in a PDF document.
+[Add image](https://github.com/SyncfusionExamples/pdf_image_handling/blob/main/Add_image) | Add an image in a PDF document.
+[Extract image](https://github.com/SyncfusionExamples/pdf_image_handling/blob/main/Extract_images) | Extract images from an existing PDF document.
+[Remove image](https://github.com/SyncfusionExamples/pdf_image_handling/blob/main/Remove_images) | Remove images from an existing PDF document. 
+[Replace image](https://github.com/SyncfusionExamples/pdf_image_handling/blob/main/Replace_image) | Replace an existing image with a new image or modify an existing image in a PDF document.
 
 # How to run the examples
 * Download this project to a location in your disk. 
