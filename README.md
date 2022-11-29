@@ -1,12 +1,12 @@
 # Handling images in PDF file using C#
-PDF has become one of the most popular and widely used file formats, here images play an important role in PDF documents, images can grab our attention easily. So, in this article, you will learn how to add, extract, remove, and replace images from PDF documents using C#.
+The [Syncfusion .NET PDF library](https://www.syncfusion.com/document-processing/pdf-framework/net) allows users to add and manipulate images in PDF files. PDF has become one of the most popular and widely used file formats, here images play an important role in PDF documents. This repository contains examples to add, extract, remove and replace images from PDF documents using C#.
 
 Sample name | Description
 --- | ---
-[Add image](https://github.com/SyncfusionExamples/pdf_image_handling/blob/master/Add_image) | To add an image to a PDF file in console application.
-[Extract image](https://github.com/SyncfusionExamples/pdf_image_handling/blob/master/Extract_images) | To extract all the images from a PDF file in console application.
-[Remove image](https://github.com/SyncfusionExamples/pdf_image_handling/blob/master/Remove_images) | To remove images from a PDF document in console application. 
-[Replace image](https://github.com/SyncfusionExamples/pdf_image_handling/blob/master/Replace_image) | Replaced an existing image in a PDF document in console application.
+[Add image](https://github.com/SyncfusionExamples/pdf_image_handling/blob/master/Add_image) | Add an image in a PDF document.
+[Extract image](https://github.com/SyncfusionExamples/pdf_image_handling/blob/master/Extract_images) | Extract images from an existing PDF document.
+[Remove image](https://github.com/SyncfusionExamples/pdf_image_handling/blob/master/Remove_images) | Remove images from an existing PDF document. 
+[Replace image](https://github.com/SyncfusionExamples/pdf_image_handling/blob/master/Replace_image) | Replace an existing image with a new image or modify an existing image in a PDF document.
 
 # How to run the examples
 * Download this project to a location in your disk. 
