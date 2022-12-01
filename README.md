@@ -1,5 +1,5 @@
 # Handling images in PDF file using C#
-The [Syncfusion .NET PDF library](https://www.syncfusion.com/document-processing/pdf-framework/net) allows users to add and manipulate images in PDF files. PDF has become one of the most popular and widely used file formats, here images play an important role in PDF documents. This repository contains examples to add, extract, remove and replace images from PDF documents using C#.
+The [Syncfusion .NET PDF library](https://www.syncfusion.com/document-processing/pdf-framework/net) allows users to add and manipulate images in PDF files. The PDF has become one of the most popular and widely used file formats, here images play an important role in PDF documents. This repository contains examples to add, extract, remove and replace images from PDF documents using C#.
 
 Sample name | Description
 --- | ---
